@@ -1,0 +1,14 @@
+.buyer_info {
+    display: flex;
+    flex-direction: column;
+    margin-left: 5%;
+    margin-top: 20px;
+    font-size: 14px;
+}
+.buyer_content {
+    margin-bottom: 10px;
+}
+.buyer_content span{
+    font-size: 15px;
+    font-weight: bold;
+}
